@@ -32,7 +32,7 @@
 
 [![Linkedin: Francisco Palacios](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/francisco-palacios1989)](https://www.linkedin.com)
 [![GitHub Franzcod](https://img.shields.io/github/followers/Franzcod?label=follow&style=social)](https://github.com/Franzcod)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
 
 
 **Languages and Tools:**  
@@ -54,6 +54,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### 🐺
 
 </div>
